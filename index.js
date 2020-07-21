@@ -78,11 +78,4 @@ const generateTOTP = ({
   return truncate(hash, passwordLength);
 };
 
-const a = generateTOTP({
-  secret_key: "my-hotp-key",
-  TS_X: 30,
-  algorithm: "sha512",
-  passwordLength: 10,
-});
-console.log(a);
 module.exports = generateTOTP;

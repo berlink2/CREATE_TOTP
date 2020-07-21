@@ -20,5 +20,16 @@
   "dependencies": {
     "moment": "^2.27.0",
     "pad-component": "^0.0.1"
-  }
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berlink2/CREATE_TOTP.git"
+  },
+  "bugs": {
+    "url": "https://github.com/berlink2/CREATE_TOTP/issues"
+  },
+  "homepage": "https://github.com/berlink2/CREATE_TOTP#readme"
 }
