@@ -1,5 +1,5 @@
 {
-  "name": "create-totp",
+  "name": "@fan2fan/create-totp",
   "version": "1.0.0",
   "description": "A package for creating a TOTP",
   "main": "index.js",
