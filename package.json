@@ -1,6 +1,6 @@
 {
   "name": "@fan2fan/create-totp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package for creating a TOTP",
   "main": "index.js",
   "license": "MIT",
